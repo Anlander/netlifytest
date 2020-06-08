@@ -1,0 +1,15 @@
+/*
+Theme Name: LA Partners
+Theme URI: 
+Author: Bästa Kompisar | Jonathan Dahl
+Author URI: http://bastakompisar.se
+Description: LA Partners Wordpress tema.
+Version: 1.0
+*/
+
+@import url(css/styles.css);
+
+#menu-item-1337 img {
+	height: 14px;
+	width: auto;
+}
